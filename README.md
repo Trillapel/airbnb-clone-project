@@ -14,4 +14,14 @@ This project is a simplified version of the Airbnb platform, focusing on buildin
 -Project Manager: Coordinates team efforts and timelines.
 -DevOps Engineer: Sets up CI/CD pipelines and manages deployments.
 
+##Technology Stack
 
+-Django: Web framework for building RESTful APIs.
+
+-MySQL: Relational database for structured data storage.
+
+-GraphQL: Enables flexible and efficient API queries.
+
+-Docker: Provides containerization for consistent environments.
+
+-GitHub Actions: Automates testing and deployment.
