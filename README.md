@@ -32,7 +32,7 @@ This project is a simplified version of the Airbnb platform, focusing on buildin
 
 -GitHub Actions: Automates testing and deployment.
 
-##Database Design
+## Database Design
 
 Entities:
 
