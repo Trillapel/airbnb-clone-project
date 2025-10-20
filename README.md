@@ -65,3 +65,13 @@ A booking is linked to a payment.
 -Review System: Leave ratings and feedback.
 
 -Payment System: Handle transactions securely.
+
+##API Security
+
+-Authentication: Ensures only valid users access the system.
+
+-Authorization: Restricts access based on user roles.
+
+-Data Encryption: Protects sensitive user data
+
+
