@@ -53,3 +53,15 @@ A user can own multiple properties.
 A property can have many bookings and reviews.
 
 A booking is linked to a payment.
+
+##Feature Breakdown
+
+-User Management: Register, login, and manage profiles.
+
+-Property Management: Add, edit, or delete listings.
+
+-Booking System: Reserve available properties.
+
+-Review System: Leave ratings and feedback.
+
+-Payment System: Handle transactions securely.
