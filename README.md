@@ -20,7 +20,7 @@ This project is a simplified version of the Airbnb platform, focusing on buildin
 
 -DevOps Engineer: Sets up CI/CD pipelines and manages deployments.
 
-##Technology Stack
+## Technology Stack
 
 -Django: Web framework for building RESTful APIs.
 
@@ -54,7 +54,7 @@ A property can have many bookings and reviews.
 
 A booking is linked to a payment.
 
-##Feature Breakdown
+## Feature Breakdown
 
 -User Management: Register, login, and manage profiles.
 
@@ -66,7 +66,7 @@ A booking is linked to a payment.
 
 -Payment System: Handle transactions securely.
 
-##API Security
+## API Security
 
 -Authentication: Ensures only valid users access the system.
 
@@ -74,7 +74,7 @@ A booking is linked to a payment.
 
 -Data Encryption: Protects sensitive user data
 
-##CI/CD Pipeline
+## CI/CD Pipeline
 
 -Continuous Integration (CI): Automatically tests changes.
 
