@@ -8,4 +8,10 @@ This project is a simplified version of the Airbnb platform, focusing on buildin
 -Implement secure API development principles.
 -Explore CI/CD workflows for deployment automation.
 
+## Team Roles
+-Backend Developer: Builds and manages APIs and business logic.
+-Database Administrator: Designs and maintains the database structure.
+-Project Manager: Coordinates team efforts and timelines.
+-DevOps Engineer: Sets up CI/CD pipelines and manages deployments.
+
 
