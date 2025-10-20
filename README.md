@@ -74,4 +74,10 @@ A booking is linked to a payment.
 
 -Data Encryption: Protects sensitive user data
 
+##CI/CD Pipeline
 
+-Continuous Integration (CI): Automatically tests changes.
+
+-Continuous Deployment (CD): Deploys stable updates automatically.
+
+-Tools: GitHub Actions + Docker.
